@@ -15,7 +15,7 @@
 
 ### Блок-схема
 
-![лаба4.drawio.png](-)
+![лаба6](https://github.com/ArtificialEntity/lab6/blob/main/d.png)
 
 ## 2. Реализация программы
 
